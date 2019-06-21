@@ -1,0 +1,25 @@
+header#main-header {
+    background: rgb(41, 158, 37);
+    height: 72px;
+}
+
+header#main-header .header-content {
+    width: 100%;
+    max-width: 980px;
+    margin: 0 auto;
+    height: 72px;
+    padding: 0 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header#main-header .header-content h1 {
+    color: #FFF;
+}
+
+header#main-header .header-content img{
+    width: 42px;
+    height: 42px;
+}

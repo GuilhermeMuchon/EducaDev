@@ -1,0 +1,57 @@
+section#Principal{
+    width: 100%;
+    height: 520px;
+    margin-top: 10px;
+    background: #fff;
+}
+
+section#Principal article .educadev-list{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0 30px;
+    max-width: 580px;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+section#Principal article .educadev-list span{
+    background: #fff;
+    border: 3px solid rgb(41, 158, 37);
+    padding: 10px;
+    border-bottom: 0;
+}
+
+section#Principal article .educadev-list span h1{
+    color: rgb(41, 158, 37);
+}
+
+section#Principal article .Learn {
+    height: 450px;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    margin: 0 auto;
+    max-width: 1200px;
+    justify-content: space-between;
+    background: rgb(143, 255, 149);
+    border: 3px solid rgb(41, 158, 37);
+}
+
+section#Principal article .Learn span{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0 30px;
+    max-width: 520px;
+    justify-content: space-between;
+    font-size: 20px;
+
+    background: rgb(41, 158, 37);
+    border: 1px solid #fff;
+    padding: 80px;
+}
+
+section#Principal article .Learn span h1{
+    color: #fff;
+}

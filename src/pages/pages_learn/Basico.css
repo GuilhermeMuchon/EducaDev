@@ -1,0 +1,81 @@
+section#Basico{
+    width: 100%;
+    height: 520px;
+    margin-top: 10px;
+    background: #fff;
+}
+
+section#Basico article .educadev-list{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0 30px;
+    max-width: 580px;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+section#Basico article .educadev-list span{
+    background: #fff;
+    border: 3px solid rgb(41, 158, 37);
+    padding: 10px;
+    border-bottom: 0;
+}
+
+section#Basico article .educadev-list span h1{
+    color: rgb(41, 158, 37);
+}
+
+section#Basico article .Learn {
+    height: 480px;
+    align-items: center;
+    padding: 0 30px;
+    margin: 0 auto;
+    max-width: 1200px;
+    justify-content: space-between;
+    background: rgb(143, 255, 149);
+    border: 3px solid rgb(41, 158, 37);;
+}
+
+section#Basico article .Learn header{
+    height: 80px;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 0;
+}
+
+section#Basico article .Learn header img{
+    width: 42px;
+    height: 42px;
+}
+
+section#Basico article .Learn header h1{
+    color: rgb(9, 63, 21);
+    font-size: 32px;
+    font-style: oblique;
+    font-size-adjust: initial;
+
+    padding-left: 450px;
+}
+
+section#Basico article .Learn footer{
+    height: 360px;
+    align-items: center;
+}
+
+section#Basico article .Learn footer .search-learn{
+    display: flex;
+}
+
+section#Basico article .Learn footer .search-learn .searchInput{
+    width: 140px;
+    height: 25px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
+
+section#Basico article .Learn footer img{
+    width: 28px;
+    height: 28px;
+}
